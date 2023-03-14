@@ -1,5 +1,5 @@
 ### Hipposoft Ailesinden Herkese Merhaba 👋
-<img src="https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/Code-typing-bro-1024x1024.png" width="auto">
+<img src="https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/Code-typing-bro-1024x1024.png" width="auto">
 
 
 <!--
