@@ -11,11 +11,25 @@ Küçük ve orta ölçekli işletmeler (KOBİ’ler) için son teknoloji dijital
 - Bulut Sistemleri Danışmanlığı
 - Uzaktan ve Yerinde IT Desteği
 
-### Projeler
+### Projeler ⚡
+[![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/ofixweb.jpg)](https://www.ofix.com) [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/hrplan.jpg)](https://www.hrplan.net) [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/ofix-app.jpg)]() [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/hrplan-app.jpg)]()
 
 
- 
-<!-- [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/ofixweb.jpg)](https://www.ofix.com) [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/hrplan.jpg)](https://www.hrplan.net) [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/ofix-app.jpg)]() -->
+### Teknolojiler 🔭
+
+[![My Skills](https://skillicons.dev/icons?i=azure,flutter,vue,react,angular,cs,php,cloudflare&theme=light)](https://skillicons.dev)
+
+## Geri Bildirim 💬
+
+Herhangi bir geri bildiriminiz varsa, lütfen info@hipposoft.net adresinden bize ulaşın.
+
+<a href="https://hipposoft.net" target="_blank"><img src="https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/contact.png" alt="Tanışalım!" height="55" width="174"></a>
+
+
+
+
+
+Hipposoft bir **Mimar Holding** kuruluşudur.
 
 <!--
 **hipposoftsoftware/hipposoftsoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,10 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-## Geri Bildirim
-
-Herhangi bir geri bildiriminiz varsa, lütfen fake@fake.com adresinden bize ulaşın.
-
-  
 -->
