@@ -12,7 +12,10 @@ Küçük ve orta ölçekli işletmeler (KOBİ’ler) için son teknoloji dijital
 - Uzaktan ve Yerinde IT Desteği
 
 ### Projeler ⚡
-[![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/ofixweb.jpg)](https://www.ofix.com) [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/hrplan.jpg)](https://www.hrplan.net) [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/ofix-app.jpg)]('') [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/hrplan-app.jpg)]('')
+[![screenshot](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/ofixcom.png)](https://www.ofix.com) [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/ofix%20app.png)]() [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/hrplan.png)]() [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/hrplan%20app.png)]()[![Screenshot](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/churnrater.png)]()
+[![Screenshot](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/srv365%20app.png)]()
+
+
 
 
 ### Teknolojiler 🔭
