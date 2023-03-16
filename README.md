@@ -12,15 +12,15 @@ Küçük ve orta ölçekli işletmeler (KOBİ’ler) için son teknoloji dijital
 - Uzaktan ve Yerinde IT Desteği
 
 ### Projeler ⚡
-[![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/ofixcom.png)](https://www.ofix.com) [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/ofix%20app.png)]() [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/hrplan.png)]() [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/hrplan%20app.png)]()[![Screenshot](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/churnrater.png)]()
-[![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/srv365%20app.png)]()
+[![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/ofixcom.png)](https://www.ofix.com) [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/ofix%20app.png)]() [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/hrplan.png)]() [![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/hrplan%20app.png)]()![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/churnrater.png)
+![](https://github.com/hipposoftsoftware/hipposoftsoftware/blob/main/assets/srv365%20app.png)
 
 
 
 
 ### Teknolojiler 🔭
 
-[![My Skills](https://skillicons.dev/icons?i=azure,flutter,vue,react,angular,cs,php,cloudflare&theme=light)]()
+![My Skills](https://skillicons.dev/icons?i=azure,flutter,vue,react,angular,cs,php,cloudflare&theme=light)
 
 ## Geri Bildirim 💬
 
